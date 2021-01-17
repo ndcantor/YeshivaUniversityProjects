@@ -1,2 +1,2 @@
-# YeshivaUniversityProjcets
+# YeshivaUniversityProjects
  Projects for YU Courses
